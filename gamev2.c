@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+HHFEFJEWDJ
 
 #define MAX_SPELL_LENGTH 30
 #define MAX_SPELLS 78
